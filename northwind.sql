@@ -1,6 +1,6 @@
 --
 -- PostgreSQL database dump
--- Good database sample for learning to run queries.
+-- Good database sample to learn how to run queries.
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
